@@ -22,4 +22,4 @@ This is the actual appearance of the Webpage
 ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/100929008/170471094-a1bb746e-9c6b-45fb-9e12-a4c13e3c5fc1.png)
 
 
-Author: Tarik Mazumder
+Author: Mohammad Mazumder (Tarik)
